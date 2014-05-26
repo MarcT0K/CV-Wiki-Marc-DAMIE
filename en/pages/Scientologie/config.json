@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Marc DAMIE"
+  },
+  "text": {
+    "more": "Graph analysis: <br> 1) The Scientology Web looks like an intranet: there is no outbound link pointing at Mainstream Web like Youtube, etc. <br> 2) The nodes have an extremely high degree : usually for this kind of website sample, the entity with the highest degree is Youtube and isn't pointed by 90% of the websites.<br> 3) There is a very high density which created this round shape.<br> 4) There are two poles: a religious one(scientology.org,...) and a cultural one(Dianetics.org,...)<br> 5) The further a website is from the center, the more local the entity is(Scientologi.se, Scientology-Detroit.org,...)<br> 6) There are just few french nodes and their degrees are extremely low.",
+    "intro": "Thanks to the graph below, we see an occupation of Web territory very well thought by Church of Scientology. To create this graph, I just needed to crawl from scientology.org (with a fixed maximum depth). No data cleaning has been done.",
+    "title": "Graph on Scientology Web"
+  },
+  "legend": {
+    "edgeLabel": "Hyperlink",
+    "colorLabel": "Degree",
+    "nodeLabel": "Web site/entity"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 13
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
