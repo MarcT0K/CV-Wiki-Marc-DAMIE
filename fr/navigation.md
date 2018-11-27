@@ -33,7 +33,7 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](pages/subitem3.md)
 
-[English version](/en/#!index.md)
+[English version](/test-wiki/en/#!index.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
