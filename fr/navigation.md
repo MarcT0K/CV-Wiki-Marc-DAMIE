@@ -21,7 +21,6 @@
 
 [A propos](pages/about.md)
 [Mon CV](pages/download.md)
-[English version](/end/index.md)
 [Menu Item 1]()
 
   * # SubMenu Heading 1
@@ -33,6 +32,7 @@
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](pages/subitem3.md)
+[English version](/en/)
 
 
 <!-- A more complex navigation example: ----------------------------------------
