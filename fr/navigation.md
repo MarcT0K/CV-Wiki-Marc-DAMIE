@@ -21,18 +21,7 @@
 
 [A propos](pages/about.md)
 [Mon CV](pages/download.md)
-[Menu Item 1]()
-
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
-
+[Data Visualization](pages/dataviz.md)
 [English version](/test-wiki/en/#!index.md)
 
 
