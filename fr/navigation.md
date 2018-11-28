@@ -20,8 +20,13 @@
   -->
 
 [A propos](pages/about.md)
-[Mon CV](pages/download.md)
+[Projets]()
+
+  * [Supports de cours : Introduction aux Systèmes et Réseaux](pages/subitem1.md)
+  * [Sudoku Solver en Prolog](pages/subitem2.md)
+  
 [Data Visualization](pages/dataviz.md)
+[Mon CV](pages/download.md)
 [English version](/test-wiki/en/#!index.md)
 
 
