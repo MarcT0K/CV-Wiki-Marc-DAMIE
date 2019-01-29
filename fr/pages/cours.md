@@ -11,7 +11,7 @@ Les cours à l'Université de Technologie de Compiègne (UTC) s'étendent sur un
 * <strong><span style="color:darkblue">Communication scientifique et technique en anglais</span></strong>
 
 
-Le reste des cours sont des cours suivis lors de précédents semestres.
+Le reste des cours a été suivi lors de précédents semestres.
 
 
 ## Mathématiques
