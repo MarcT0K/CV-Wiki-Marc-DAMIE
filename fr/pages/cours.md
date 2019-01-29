@@ -1,21 +1,26 @@
 # Cours suivis
 
+Le cours à l'Université de Technologie de Compiègne (UTC) s'étendent sur un semestre.
+
 ## Cours suivis actuellement
-### Mathématiques
-* Analyse de données
-* Math
+* Analyse de données et data mining : présente les techniques modernes de l'analyse de grands ensembles de données et développer les outils de base de la fouille de données (data mining).
+* Sturctures, calcul formel et algorithmes : Les structures fondamentales de l'algèbre (groupes, anneaux, corps) sont présentées et mises en pratique par le calcul formel (Sage, ou Python, en TP), via des algorithmes (exponentiation modulaire, Euclide, Pollard, ...).
+* Programmation et conception orientées objet
+* Conception de bases de données relationnelles et non relationnelles
+* Réalisation de projet
+* Communication scientifique et technique en anglais
 
-### Informatique
+
+Le reste des cours sont des cours suivis lors de précédents semestres.
 
 
-## Cours suivis précédemment
-### Mathématiques
+## Mathématiques
 
-### Informatique
+## Informatique
 
-### Langues
+## Langues
 
-### Sciences humaines
+## Sciences humaines
 
-### Autres cours
+## Autres cours
 
