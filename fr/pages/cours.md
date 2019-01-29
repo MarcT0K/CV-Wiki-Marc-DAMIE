@@ -1,6 +1,6 @@
 # Cours suivis
 
-Le cours à l'Université de Technologie de Compiègne (UTC) s'étendent sur un semestre.
+Les cours à l'Université de Technologie de Compiègne (UTC) s'étendent sur un semestre.
 
 ## Cours suivis actuellement
 * <strong><span style="color:darkblue">Analyse de données et data mining</span></strong>: présente les techniques modernes de l'analyse de grands ensembles de données et développer les outils de base de la fouille de données (data mining).
