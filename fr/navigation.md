@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme (inverse: true)](pulse)
+[gimmick:theme](flatly)
 
 
 <!--
