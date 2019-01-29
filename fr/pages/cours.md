@@ -45,7 +45,7 @@ Dans cette partie, chaque cours est séparé par un point-virgule.
 * Technologie, cognition, perception
 * Rhétorique et arts du discours
 * Etudes des écritures numériques ordinaires
-* <strong><span style="color:darkblue">Sciences des réseaux</span></strong> : visualisation de graphes et utilisation à des fins d'analyses non mathématiques(sociologiques, économiques, politiques, etc.)
+* <strong><span style="color:darkblue">Science des réseaux</span></strong> : visualisation de graphes et utilisation à des fins d'analyses non mathématiques(sociologiques, économiques, politiques, etc.)
 
 ## Autres cours
 * Physique : Chimie physique minérale; Thermodynamique; Optique; Electricité
