@@ -33,8 +33,21 @@ Le reste des cours sont des cours suivis lors de précédents semestres.
 * <strong><span style="color:darkblue">Algorithmique et programmation</span></strong>. Techonologie utilisée: <i>Pascal</i>
 
 ## Langues
+Dans cette partie, chaque cours est séparé par un point-virgule.
+
+* <strong><span style="color:darkblue">Anglais</span></strong> : Niveau avancé; Interculturalité appliquée aux pays anglophones 
+* <strong><span style="color:darkblue">Espagnol</span></strong> : Niveau avancé
+* <strong><span style="color:darkblue">Chinois</span></strong> : Niveau débutant
 
 ## Sciences humaines
+* Séminaire interdisciplinaire de sciences et technologies cognitives
+* Éthiques: approche pluridisciplinaire
+* Technologie, cognition, perception
+* Rhétorique et arts du discours
+* Etudes des écritures numériques ordinaires
+* <strong><span style="color:darkblue">Sciences des réseaux</span></strong> : visualisation de graphes et utilisation à des fins d'analyses non mathématiques(sociologiques, économiques, politiques, etc.)
 
 ## Autres cours
-
+* Physique : Chimie physique minérale; Thermodynamique; Optique; Electricité
+* Techniques : Dessin technique; Introduction à la mesure
+* <strong><span style="color:darkblue">Stage interculturel</span></strong> de 5 semaines à <i>Cambridge, Angleterre</i>
