@@ -24,8 +24,8 @@
 [Projets]()
 
   * [Supports de cours : Introduction aux Systèmes et Réseaux](pages/intro_sr.md)
-  * [Sudoku Solver en Prolog](pages/sudoku.md)
-  * [Data Visualization](pages/dataviz.md)
+  * [Jeu de Sudoku avec résolution et génération de grilles](pages/sudoku.md)
+  * [Visualisation de graphes: Scientologie](pages/dataviz.md)
   * [Projet de robotique](pages/robot.md)
   
 [Mon CV](pages/download.md)
