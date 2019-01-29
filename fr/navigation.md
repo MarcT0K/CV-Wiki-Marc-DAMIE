@@ -20,6 +20,7 @@
   -->
 
 [A propos](pages/about.md)
+[Cours suivis](pages/cours.md)
 [Projets]()
 
   * [Supports de cours : Introduction aux Systèmes et Réseaux](pages/subitem1.md)
