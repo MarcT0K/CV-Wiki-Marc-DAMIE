@@ -1,7 +1,7 @@
 # Présentation
 
 
-## Qui suis-je
+## Qui suis-je?
 
 Je suis étudiant-ingénieur en troisième année au sein du département Génie Informatique à l'[Université de Technologie de Compiègne (UTC)](https://www.utc.fr/). L'UTC est membre de l'[alliance Sorbonne Université](https://www.sorbonne-universite.fr/universite/nous-connaitre/alliance-sorbonne-universite). 
 
