@@ -9,8 +9,7 @@ Grâce à un tel graphe, on peut visualiser et interpréter une stratégie d'occ
 
 ## Graphe sur la stratégie d'occupation du territoire numérique de la Scientologie
 
-Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numérique très bien conçue par la Scientologie. Pour obtenir
-ce graphe, il a simplement fallu crawl à partir de scientology.org. Aucun traitement supplémentaire ou nettoyage des résultats a été nécessaire.
+Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numérique très bien conçue par la Scientologie. Pour obtenir ce graphe, il a simplement fallu crawl (avec une profondeur donnée) à partir de scientology.org. Aucun traitement supplémentaire ou nettoyage des résultats a été nécessaire.
 
 ### *Légende*: 
 
@@ -30,9 +29,6 @@ Ici, les entités au plus grand degré sont pointées par près de 90% des sites
 * Il y a très peu de noeuds français et ces noeuds ont un degré extrêmement faible
 
 ### Conclusions:
-La Scientologie a très bien réfléchi son occupation du Web. Premièrement, l'existence du pôle culturel moins connoté religion représente une porte
-d'entrée vers la Scientologie. L'idée d'avoir des pages sans lien sortant de ce cluster Scientologie permet de conserver ses internautes. Les degrés
-très grands permettent un très bon référencement par l'algorithme de Google. Enfin, les déclinaisons locales ont des degrés très faibles car
-elle représentent des entités utiles pour des "croyants" confirmés et à l'utilisation plus quotidienne. Ces sites sont donc le bout du chemin pour
-un utilisateur. Le degré des noeuds français est un argument explicant la présence moindre de cette secte en France par rapport à d'autres pays.
-Ainsi, on constate que la stratégie d'occupation du territoire numérique n'a pas été encore appliqué sur le Web français.
+La Scientologie a très bien réfléchi son occupation du Web. Premièrement, l'existence du pôle culturel moins connoté religion représente une porte d'entrée vers la Scientologie. L'idée d'avoir des pages sans lien sortant de ce cluster Scientologie permet de conserver ses internautes. Les degrés très grands permettent un très bon référencement par l'algorithme de Google. Enfin, les déclinaisons locales ont des degrés très faibles car elles représentent des entités utiles pour des "croyants" confirmés et à l'utilisation plus quotidienne. Ces sites sont donc le bout du chemin pour un utilisateur. 
+
+Le degré des noeuds français est un argument explicant la présence moindre de cette secte en France par rapport à d'autres pays. Ainsi, on constate que la stratégie d'occupation du territoire numérique n'a pas été encore appliqué sur le Web français.
