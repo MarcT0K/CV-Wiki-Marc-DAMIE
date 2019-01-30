@@ -7,8 +7,9 @@ des entités web. Pour réaliser ce type de graphe, il suffit de créer un crawl
 Grâce à un tel graphe, on peut visualiser et interpréter une stratégie d'occupation du territoire numérique. On peut
 également envisager les organisations sociales par leur production de contenus web.
 
-## Graphe sur la stratégie d'occupation du territoire numérique de la Scientologie
+Nous avons étudié la stratégie d'occupation de plusieurs groupes : fachosphère, Scientologie et témoins de Jéhovah. Ici, e choisis de montrer seulement le graphe relatif à la Scientologie car je considère qu'il est celui le plus propre et le plus atypique.
 
+## Graphe sur la stratégie d'occupation du territoire numérique de la Scientologie
 Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numérique très bien conçue par la Scientologie. Pour obtenir ce graphe, il a simplement fallu crawl (avec une profondeur donnée) à partir de scientology.org. Aucun traitement supplémentaire ou nettoyage des résultats a été nécessaire.
 
 [Version Web du graphe](Scientologie/index.html)
