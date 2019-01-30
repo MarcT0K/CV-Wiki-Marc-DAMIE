@@ -11,6 +11,8 @@ Grâce à un tel graphe, on peut visualiser et interpréter une stratégie d'occ
 
 Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numérique très bien conçue par la Scientologie. Pour obtenir ce graphe, il a simplement fallu crawl (avec une profondeur donnée) à partir de scientology.org. Aucun traitement supplémentaire ou nettoyage des résultats a été nécessaire.
 
+[Version Web du graphe]()
+
 ### *Légende*: 
 
 * Noeud : site/entité web.
