@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Marc DAMIE"
+  },
+  "text": {
+    "more": "Avec ce graphe, on peut distinguer quelques points particuliers de la stratégie d\u0027occupation du Web :\n\n1) Absence de lien sortant de cette bulle du Web créée par la Scientologie:\n\tCe graphe n\u0027a pas été nettoyé, il y a en effet aucun lien vers des sites du Web classique (comme Youtube par exemple)\n2) Forte densité de liens:\n\tCette forte densité permet d\u0027avoir des liens avec un degré conséquent, ce qui permettra d\u0027avoir un bon référencement par Google\n3) Deux pôles au sein de cette bulle Web : culturel et religeux\n\tLe premier pôle permet d\u0027attirer vers la Scientologie sans parler religion avant de passer au second pôle destiné aux personnes convaincues.\n4) Plus on s\u0027éloigne du centre, plus le degré est petit, plus les sites correspondent à des entités nationales ou locales.\n\n5) Les entités françaises ont des degrés très faibles:\n\tCette non-mise en oeuvre de la stratégie sur le Web français permet d\u0027expliquer partiellement le \"succès\" moindre de la Scientologie en France comparativement à d\u0027autres pays",
+    "intro": "Graphe permettant de visualiser la stratégie d\u0027occupation du territoire numérique mise en oeuvre par l\u0027Eglise de la Scientologie. ",
+    "title": "Graphe du Wb de la Scientologie"
+  },
+  "legend": {
+    "edgeLabel": "Hyperlien",
+    "colorLabel": "Degré",
+    "nodeLabel": "Site/Entité Web"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
