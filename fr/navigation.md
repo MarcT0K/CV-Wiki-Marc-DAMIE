@@ -29,7 +29,7 @@
   * [Projet de robotique](pages/robot.md)
   
 [Mon CV](pages/download.md)
-[English version](/test-wiki/en/#!index.md)
+<!--[English version](/test-wiki/en/#!index.md) -->
 
 
 <!-- A more complex navigation example: ----------------------------------------
