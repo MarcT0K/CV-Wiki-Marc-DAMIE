@@ -15,3 +15,6 @@ Nous avons réalisé un programme qui permet de :
 * Importer et exporter des grilles
 
 L'ensemble du projet est disponible et documenté sur ce [repo GitLab](https://gitlab.utc.fr/hoangquo/ia02-sudoku). 
+
+## Technologies
+* Prolog
