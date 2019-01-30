@@ -12,14 +12,15 @@ Grâce à un tel graphe, on peut visualiser et interpréter une stratégie d'occ
 Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numérique très bien conçue par la Scientologie. Pour obtenir
 ce graphe, il a simplement fallu crawl à partir de scientology.org. Aucun traitement supplémentaire ou nettoyage des résultats a été nécessaire.
 
-*Légende*: 
+### *Légende*: 
+
 * Noeud : site/entité web.
 * Lien : Hyperlien entre deux entités
 * Couleur/Taille : Degré du noeud
 
 ![Graphe Scientologie](uploads/images/sciento.png)
 
-Analyse du graphe: 
+### Analyse du graphe: 
 * Le Web de la Scientologie **ressemble à un sorte intranet**, il n'y a aucun lien qui se dirige vers le Web *classique* tel que *Youtube*, etc.
 * Les noeuds ont un **degré extrêmement grand** : généralement sur un échantillon de cette taille, l'entité avec le plus grand degré est Youtube. 
 Ici, les entités au plus grand degré sont pointées par près de 90% des sites.
@@ -28,7 +29,7 @@ Ici, les entités au plus grand degré sont pointées par près de 90% des sites
 * Plus on s'éloigne du centre, plus les sites correspondent à des entités locales (Scientologi.se, Scientology-Detroit.org,...)
 * Il y a très peu de noeuds français et ces noeuds ont un degré extrêmement faible
 
-Conclusions:
+### Conclusions:
 La Scientologie a très bien réfléchi son occupation du Web. Premièrement, l'existence du pôle culturel moins connoté religion représente une porte
 d'entrée vers la Scientologie. L'idée d'avoir des pages sans lien sortant de ce cluster Scientologie permet de conserver ses internautes. Les degrés
 très grands permettent un très bon référencement par l'algorithme de Google. Enfin, les déclinaisons locales ont des degrés très faibles car
