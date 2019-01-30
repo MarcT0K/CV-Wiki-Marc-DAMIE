@@ -1,7 +1,7 @@
 # Visualisation de graphes
 
 ## Contexte académique
-Dans le cadre d'un cours sur la science des réseaux, j'étais amené à réaliser des graphes du lien (hyperlien) entre
+Dans le cadre d'un cours de **Franck Ghitalla** sur la science des réseaux, j'étais amené à réaliser des graphes du lien (hyperlien) entre
 des entités web. Pour réaliser ce type de graphe, il suffit de créer un crawler. 
 
 Grâce à un tel graphe, on peut visualiser et interpréter une stratégie d'occupation du territoire numérique. On peut
