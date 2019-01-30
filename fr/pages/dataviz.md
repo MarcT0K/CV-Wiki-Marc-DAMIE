@@ -17,7 +17,7 @@ ce graphe, il a simplement fallu crawl à partir de scientology.org. Aucun trait
 * Lien : Hyperlien entre deux entités
 * Couleur/Taille : Degré du noeud
 
-![Graphe Scientologie](upload/images/sciento.png)
+![Graphe Scientologie](uploads/images/sciento.png)
 
 Analyse du graphe: 
 * Le Web de la Scientologie **ressemble à un sorte intranet**, il n'y a aucun lien qui se dirige vers le Web *classique* tel que *Youtube*, etc.
