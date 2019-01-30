@@ -25,7 +25,7 @@ Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numér
 * Le Web de la Scientologie **ressemble à un sorte intranet**, il n'y a aucun lien qui se dirige vers le Web *classique* tel que *Youtube*, etc.
 * Les noeuds ont un **degré extrêmement grand** : généralement sur un échantillon de cette taille, l'entité avec le plus grand degré est Youtube. 
 Ici, les entités au plus grand degré sont pointées par près de 90% des sites.
-* Il y a une **densité très grande**
+* Il y a une **densité très grande** (créant cette forme ronde)
 * Il y a deux pôles: un religieux (scientology.org,...) et un culturel (Dianetics.org,...)
 * Plus on s'éloigne du centre, plus les sites correspondent à des entités locales (Scientologi.se, Scientology-Detroit.org,...)
 * Il y a très peu de noeuds français et ces noeuds ont un degré extrêmement faible
