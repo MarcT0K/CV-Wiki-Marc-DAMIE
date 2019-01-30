@@ -22,7 +22,7 @@
 
 * Voyage 
   * 1 mois de *stage interculturel* passé en Angleterre
-  * 2 séjours scolaire de deux semaines passés en Russie
+  * 2 séjours scolaires de deux semaines passés en Russie
   * Des voyages au Canada, en Corée, au Japon, au Portugal, aux Etats-Unis,etc.
 * eSport
 * Ultimate Frisbee
