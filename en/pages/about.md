@@ -1,28 +1,27 @@
-# A propos de moi
+# About me
 
 
-## Engagements associatifs
-* *[Depuis février 2018]* Membre puis Trésorier de [**Rhizome**](https://rhizome-fai.net/) : fournisseur d'accès internet associatif et éthique
-  * Déploiement de Wi-Fi pour des événements comme l'[Imaginarium Festival](https://www.imaginariumfestival.com/)
-  * Déploiement d'accès internet chez nos abonnés
-  * Promotion de la culture du libre et de l'open-source
-  * Association membre de la [FFDN](https://www.ffdn.org/)
-* *[2017 - 2018]* Responsable Communication et Partenariats de **TEDxUTCompiègne**
-  * Organisation de la troisième édition de la conférence TEDxUTCompiègne
-* *[Depuis 2019]* Responsable informatique d'Escap'UT (association organisant des escape games dans l'Université) 
-  * Développement d'un site web et d'un système de réservation 
-  * Développement d'énigmes nécessitant des interactions homme/machine et/ou des capteurs
+## Volunteering in non-profit associations
+* *[Since februrary 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/) : a non-profit Internet Service Provider
+  * Provide events, like [Imaginarium Festival](https://www.imaginariumfestival.com/), with WiFi used for contactless payment
+  * Provide our subscribers with internet access
+  * Organize conferences about open-source and Free-culture movement
+  * Association member of the [FFDN](https://www.ffdn.org/en)
+* *[2017 - 2018]* Manager of Communication and Sponsorships of **TEDxUTCompiègne**
+  * Organization of the third TEDxUTCompiègne conference
+* *[Depuis 2019]* IT Manager of Escap'UT (student association organizing escape games in our Uni) 
+  * Website and reservation system development
+  * Enigmas development using computers, Raspberries Pi and sensors
 
+## Other involvements
+* <strong><span style="color:darkblue">Student representative</span></strong> in the board of directors of the University of Technology of Compiègne
+* <strong><span style="color:darkblue">Student representative</span></strong> in Computer Science Department of the University of Technology of Compiègne
 
-## Autres engagments
-* <strong><span style="color:darkblue">Elu étudiant</span></strong> au conseil d'administration de l'UTC
-* <strong><span style="color:darkblue">Elu étudiant</span></strong> au département Génie Informatique de l'UTC
+## My interests
 
-## Mes intérêts
-
-* Voyage 
-  * 1 mois de *stage interculturel* passé en Angleterre
-  * 2 séjours scolaires de deux semaines passés en Russie
-  * Des voyages au Canada, en Corée, au Japon, au Portugal, aux Etats-Unis,etc.
+* Travels
+  * one-month *intercurltural internship* spent in Cambridge, UK
+  * 2 two-weeks language stay in Saint-Petersburg, Russia
+  * Tourist stays: Canada, Korea, Japan, Portugal, USA, etc.
 * eSport
 * Ultimate Frisbee
