@@ -28,8 +28,8 @@
   * [Visualisation de graphes: Scientologie](pages/dataviz.md)
   * [Projet de robotique](pages/robot.md)
   
-[Mon CV](pages/uploads/pdf/Marc_DAMIE_CV_fr.pdf)
-[![Alt text](france_icon.png)](/test-wiki/fr/#!index.md)
+[Mon CV](pages/uploads/pdf/Marc_DAMIE_CV_fr.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Alt text](france_icon.png)](/CV-Wiki-Marc-DAMIE/fr/#!index.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
