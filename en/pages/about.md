@@ -14,8 +14,8 @@
   * Enigmas development using computers, Raspberries Pi and sensors
 
 ## Other involvements
-* <strong><span style="color:darkblue">Student representative</span></strong> in the board of directors of the University of Technology of Compiègne
-* <strong><span style="color:darkblue">Student representative</span></strong> in Computer Science Department of the University of Technology of Compiègne
+* *[Since December 2017]* <strong><span style="color:darkblue">Student representative</span></strong> in the board of directors of the University of Technology of Compiègne
+* *[Since December 2017]* <strong><span style="color:darkblue">Student representative</span></strong> in Computer Science Department of the University of Technology of Compiègne
 
 ## My interests
 
