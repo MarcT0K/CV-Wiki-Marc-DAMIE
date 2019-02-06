@@ -1,11 +1,11 @@
-# Présentation
+# Presentation
 
 
-## Qui suis-je?
+## Who am I?
 
-Je suis étudiant-ingénieur en troisième année (correspondant à la dernière année de *bachelor* au Canada) au sein du département Génie Informatique à l'[Université de Technologie de Compiègne (UTC)](https://www.utc.fr/). L'UTC est membre de l'[alliance Sorbonne Université](https://www.sorbonne-universite.fr/universite/nous-connaitre/alliance-sorbonne-universite). 
+I am a third-year Computer Science student (equivalent to the canadian *bachelor* last year) in the [University of Technology of Compiègne (UTC)](https://www.utc.fr/en.html); member of the [Sorbonne Univerity Alliance](https://www.sorbonne-universite.fr/en/university/about-us/sorbonne-university-alliance). 
 
-Je suis passionné par la Donnée et les Mathématiques. Grâce à des projets académiques et des associations dans lesquelles je suis impliqué, j'ai de petites expériences dans plusieurs domaines: réseaux, système, analyse de données, traitement d'images, etc.
+I am passionate about Data and Mathematics. Thanks to projects and student associations I am involved in, I have little experiences in several IT fields: networks, systems, data analysis, image processing, etc.
 
-## Recherche de stage
-Je recherche actuellement un stage en développement de 6 mois pour débuter ma quatrième année. Je souhaiterais réaliser celui-ci sur Montréal.
+## Development internship
+I am currently looking for a 6-month development internship to start my fourth year of studies as well. I would love to find this internship in Montréal, QC.
