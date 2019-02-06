@@ -1,13 +1,11 @@
-# It works! ;-)
+# Présentation
 
 
-## Section 1
+## Qui suis-je?
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+Je suis étudiant-ingénieur en troisième année (correspondant à la dernière année de *bachelor* au Canada) au sein du département Génie Informatique à l'[Université de Technologie de Compiègne (UTC)](https://www.utc.fr/). L'UTC est membre de l'[alliance Sorbonne Université](https://www.sorbonne-universite.fr/universite/nous-connaitre/alliance-sorbonne-universite). 
 
+Je suis passionné par la Donnée et les Mathématiques. Grâce à des projets académiques et des associations dans lesquelles je suis impliqué, j'ai de petites expériences dans plusieurs domaines: réseaux, système, analyse de données, traitement d'images, etc.
 
-## Section 2
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+## Recherche de stage
+Je recherche actuellement un stage en développement de 6 mois pour débuter ma quatrième année. Je souhaiterais réaliser celui-ci sur Montréal.

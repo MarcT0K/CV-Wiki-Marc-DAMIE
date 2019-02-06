@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Marc DAMIE en
+# Marc DAMIE
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](journal)
+[gimmick:theme](flatly)
 
 
 <!--
@@ -19,8 +19,18 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[A propos](pages/about.md)
+[Cours suivis](pages/cours.md)
+[Projets]()
+
+  * [Supports de cours : Introduction aux Systèmes et Réseaux](pages/intro_sr.md)
+  * [Jeu de Sudoku avec résolution et génération de grilles](pages/sudoku.md)
+  * [Visualisation de graphes: Scientologie](pages/dataviz.md)
+  * [Projet de robotique](pages/robot.md)
+  
+[Mon CV](pages/uploads/pdf/Marc_DAMIE_CV_fr.pdf)
+<!--[English version](/test-wiki/en/#!index.md) -->
+
 
 <!-- A more complex navigation example: ----------------------------------------
 

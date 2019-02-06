@@ -1,15 +1,28 @@
-# About Page
+# A propos de moi
 
 
-## Section 1
+## Engagements associatifs
+* *[Depuis février 2018]* Membre puis Trésorier de [**Rhizome**](https://rhizome-fai.net/) : fournisseur d'accès internet associatif et éthique
+  * Déploiement de Wi-Fi pour des événements comme l'[Imaginarium Festival](https://www.imaginariumfestival.com/)
+  * Déploiement d'accès internet chez nos abonnés
+  * Promotion de la culture du libre et de l'open-source
+  * Association membre de la [FFDN](https://www.ffdn.org/)
+* *[2017 - 2018]* Responsable Communication et Partenariats de **TEDxUTCompiègne**
+  * Organisation de la troisième édition de la conférence TEDxUTCompiègne
+* *[Depuis 2019]* Responsable informatique d'Escap'UT (association organisant des escape games dans l'Université) 
+  * Développement d'un site web et d'un système de réservation 
+  * Développement d'énigmes nécessitant des interactions homme/machine et/ou des capteurs
 
-Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+## Autres engagments
+* <strong><span style="color:darkblue">Elu étudiant</span></strong> au conseil d'administration de l'UTC
+* <strong><span style="color:darkblue">Elu étudiant</span></strong> au département Génie Informatique de l'UTC
 
-Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+## Mes intérêts
 
-
-## Section 2
-
-Nulla vitae elit libero, a pharetra augue. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+* Voyage 
+  * 1 mois de *stage interculturel* passé en Angleterre
+  * 2 séjours scolaires de deux semaines passés en Russie
+  * Des voyages au Canada, en Corée, au Japon, au Portugal, aux Etats-Unis,etc.
+* eSport
+* Ultimate Frisbee
