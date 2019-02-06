@@ -3,9 +3,9 @@
 
 ## Volunteering in non-profit associations
 * *[Since February 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/) : a non-profit Internet Service Provider
-  * Provide events, like [Imaginarium Festival](https://www.imaginariumfestival.com/), with WiFi used for contactless payment
-  * Provide our subscribers with internet access
-  * Organize conferences about open-source and Free-culture movement
+  * Provides events, like [Imaginarium Festival](https://www.imaginariumfestival.com/), with WiFi used for contactless payment
+  * Provides our subscribers with internet access
+  * Organizes conferences about open-source and Free-culture movement
   * Association member of the [FFDN](https://www.ffdn.org/en)
 * *[2017 - 2018]* Manager of Communication and Sponsorships of **TEDxUTCompiègne**
   * Organization of the third TEDxUTCompiègne conference
