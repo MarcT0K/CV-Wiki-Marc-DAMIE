@@ -10,7 +10,7 @@
 * *[2017 - 2018]* Responsable Communication et Partenariats de **TEDxUTCompiègne**
   * Organisation de la troisième édition de la conférence TEDxUTCompiègne
 * *[Depuis 2019]* Responsable informatique d'Escap'UT (association organisant des escape games dans l'Université) 
-  * Développement d'un site web et 
+  * Développement d'un site web et d'un système de réservation 
   * Développement d'énigmes nécessitant des interactions homme/machine et/ou des capteurs
 
 
