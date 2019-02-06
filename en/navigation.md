@@ -30,6 +30,7 @@
   
 [Mon CV](pages/uploads/pdf/Marc_DAMIE_CV_fr.pdf)
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
 [<img src="france_icon.png" alt="Version française" width="20" height="20" />](../fr/#!index.md)
 
 
