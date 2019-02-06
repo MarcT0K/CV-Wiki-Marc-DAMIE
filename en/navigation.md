@@ -33,7 +33,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-[<img src="france_icon.png" alt="Version française" width="20" height="20" />](/CV-Wiki-Marc-DAMIE/fr/#!index.md)
+[<img src="france_icon.png" alt="Version française" width="20" height="20" />](../fr/#!index.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
