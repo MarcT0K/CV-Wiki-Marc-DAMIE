@@ -44,7 +44,7 @@ The courses below have already been completed during the previous semesters.
 * Everyday digital writings studies
 * <strong><span style="color:darkblue">Network Science</span></strong> : Graph visualization and non-mathematical analysis (economical, political or strategic analysis).
 
-## Autres cours
+## Others courses
 * Physics : Inorganic physical chemistry; Thermodynamics; Optics; Electricity
 * Technical : Technical drawing; Introduction to Measure theory
 * 5-week <strong><span style="color:darkblue">Intercultural internship</span></strong> in <i>Cambridge, UK</i>
