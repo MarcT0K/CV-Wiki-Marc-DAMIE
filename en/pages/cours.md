@@ -1,6 +1,6 @@
 # Courses
 
-In my University, the year is divide in two semesters. Then, each course is taken over 5 months.
+In my university, the year is divide in two semesters. Then, each course is taken over 5 months.
 
 ## Courses currently being taken
 * <strong><span style="color:darkblue">Data analysis and data mining</span></strong>: Study of the principal methods of multidimensional data analysis used in data mining allowing the retrieval of knowledge starting from great volumes of data. Technology: `R`
