@@ -19,16 +19,16 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[A propos](pages/about.md)
-[Cours suivis](pages/cours.md)
-[Projets]()
+[About me](pages/about.md)
+[My Courses](pages/cours.md)
+[Projects]()
 
   * [Supports de cours : Introduction aux Systèmes et Réseaux](pages/intro_sr.md)
-  * [Jeu de Sudoku avec résolution et génération de grilles](pages/sudoku.md)
-  * [Visualisation de graphes: Scientologie](pages/dataviz.md)
-  * [Projet de robotique](pages/robot.md)
+  * [Sudoku Solver](pages/sudoku.md)
+  * [Graph visualization: Scientology](pages/dataviz.md)
+  * [Robotics project](pages/robot.md)
   
-[Mon CV](pages/uploads/pdf/Marc_DAMIE_CV_fr.pdf)
+[My CV](pages/uploads/pdf/Marc_DAMIE_CV_en.pdf)
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 [<img src="france_icon.png" alt="Version française" width="20" height="20" /> Version française](../fr/#!index.md)
