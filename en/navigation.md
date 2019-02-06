@@ -31,7 +31,7 @@
 [Mon CV](pages/uploads/pdf/Marc_DAMIE_CV_fr.pdf)
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-[<img src="france_icon.png" alt="Version française" align="right" width="20" height="20" /> <p align="right">Version française</p>](../fr/#!index.md)
+[<img src="france_icon.png" alt="Version française" width="20" height="20" /> <p align="right">Version française</p>](../fr/#!index.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
