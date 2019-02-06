@@ -2,14 +2,14 @@
 
 
 ## Volunteering in non-profit associations
-* *[Since februrary 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/) : a non-profit Internet Service Provider
+* *[Since February 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/) : a non-profit Internet Service Provider
   * Provide events, like [Imaginarium Festival](https://www.imaginariumfestival.com/), with WiFi used for contactless payment
   * Provide our subscribers with internet access
   * Organize conferences about open-source and Free-culture movement
   * Association member of the [FFDN](https://www.ffdn.org/en)
 * *[2017 - 2018]* Manager of Communication and Sponsorships of **TEDxUTCompiègne**
   * Organization of the third TEDxUTCompiègne conference
-* *[Depuis 2019]* IT Manager of Escap'UT (student association organizing escape games in our Uni) 
+* *[Since December 2018]* IT Manager of Escap'UT (student association organizing escape games in our Uni) 
   * Website and reservation system development
   * Enigmas development using computers, Raspberries Pi and sensors
 
