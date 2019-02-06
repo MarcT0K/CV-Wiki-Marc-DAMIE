@@ -2,9 +2,9 @@
 
 Les cours à l'Université de Technologie de Compiègne (UTC) s'étendent sur un semestre.
 
-## Cours suivis actuellement
-* <strong><span style="color:darkblue">Analyse de données et data mining</span></strong>: présente les techniques modernes de l'analyse de grands ensembles de données et développer les outils de base de la fouille de données (data mining).
-* <strong><span style="color:darkblue">Sturctures, calcul formel et algorithmes</span></strong>: Les structures fondamentales de l'algèbre (groupes, anneaux, corps) sont présentées et mises en pratique par le calcul formel (Sage, ou Python, en TP), via des algorithmes (exponentiation modulaire, Euclide, Pollard, ...).
+## Cours suivis en ce moment
+* <strong><span style="color:darkblue">Analyse de données et data mining</span></strong>: présente les techniques modernes de l'analyse de grands ensembles de données et développer les outils de base de la fouille de données (data mining). Technologie utilisée: `R`
+* <strong><span style="color:darkblue">Sturctures, calcul formel et algorithmes</span></strong>: Les structures fondamentales de l'algèbre (groupes, anneaux, corps) sont présentées et mises en pratique par le calcul formel (Sage, ou Python, en TP), via des algorithmes (exponentiation modulaire, Euclide, Pollard, ...). Technologie utilisée: `Python`
 * <strong><span style="color:darkblue">Programmation et conception orientées objet</span></strong>. Technologie utilisée: `C++`
 * <strong><span style="color:darkblue">Conception de bases de données relationnelles et non relationnelles</span></strong>. Technologies utilisées: `PHP` `SQL` `NoSQL`
 * <strong><span style="color:darkblue">Réalisation de projet</span></strong>. Technologie utilisée: `Python` `Docker`, etc.
