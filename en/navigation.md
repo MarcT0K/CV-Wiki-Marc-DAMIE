@@ -29,7 +29,7 @@
   * [Projet de robotique](pages/robot.md)
   
 [Mon CV](pages/uploads/pdf/Marc_DAMIE_CV_fr.pdf)
-<!--[English version](/test-wiki/en/#!index.md) -->
+[![Alt text](france_icon.png)](/test-wiki/fr/#!index.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
