@@ -13,11 +13,11 @@
   * Website and reservation system development
   * Enigmas development using computers, Raspberries Pi and sensors
 
-## Other involvements
+## Other Involvements
 * *[Since December 2017]* <strong><span style="color:darkblue">Student representative</span></strong> in the board of directors of the University of Technology of Compiègne
 * *[Since December 2017]* <strong><span style="color:darkblue">Student representative</span></strong> in the Computer Science Department of the University of Technology of Compiègne
 
-## My interests
+## My Interests
 
 * Travels
   * one-month *intercurltural internship* spent in Cambridge, UK
