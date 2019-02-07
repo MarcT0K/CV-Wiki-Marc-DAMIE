@@ -7,6 +7,7 @@ This project had been realized with Hoang Quoc Trung for the course *Problem sol
 ## Results
 
 We created the following features:
+
 * Generate grids with several difficulty levels
 * Play manually
 * Solve wholly or partly the grid
