@@ -23,8 +23,8 @@
 [My Courses](pages/cours.md)
 [Projects]()
 
-  * [Supports de cours : Introduction aux Systèmes et Réseaux](pages/intro_sr.md)
-  * [Sudoku Solver](pages/sudoku.md)
+  * [Introductory courses on system and network administration](pages/intro_sr.md)
+  * [Sudoku Solver and more](pages/sudoku.md)
   * [Graph visualization: Scientology](pages/dataviz.md)
   * [Robotics project](pages/robot.md)
   
