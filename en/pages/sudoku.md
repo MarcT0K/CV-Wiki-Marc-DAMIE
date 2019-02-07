@@ -1,20 +1,18 @@
-# Jeu de Sudoku avec résolution et génération de grilles
+# Sudoku solver and more
 
-## Contexte académique
+## Academic context
 
-Ce projet a été réalisé en binôme avec Hoang Quoc Trung dans le cadre du cours *Résolution de problèmes et programmation logique*. L'objectif
-était de réaliser un programme en *Prolog* permettant de générer, jouer et résoudre une grille de sudoku. Notons que, lors de ce projet, nous n'avons pas
-l'autorisation d'utiliser la programmation par contrainte.
+This project had been realised with Hoang Quoc Trung for the course *Problem solving and logic programming*. The objective was to write a *Prolog* program allowing to generate, play and solve a sudoku grid. Note that we were not allowed to use Constraint programming.
 
-## Résultats
+## Results
 
-Nous avons réalisé un programme qui permet de :
-* Générer des grilles avec plusieurs niveaux de difficultés
-* Jouer manuellement
-* Résoudre la grille partiellement ou complètement
-* Importer et exporter des grilles
+We created the following features:
+* Generate grids with several difficulty levels
+* Play manually
+* Solve wholly or partly the grid
+* Import and export grids
 
-L'ensemble du projet est disponible et documenté sur ce [repo GitLab](https://gitlab.utc.fr/hoangquo/ia02-sudoku). 
+The whole project is available and documented on this [GitLab repository](https://gitlab.utc.fr/hoangquo/ia02-sudoku). 
 
-## Technologies
+## Technology
 * Prolog
