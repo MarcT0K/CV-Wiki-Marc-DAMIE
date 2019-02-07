@@ -1,12 +1,11 @@
-# Projet de Robotique
-## Contexte académique
-Dans le cadre du cours *Capteurs pour les systèmes intelligents*, j'ai réalisé ce projet de robotique avec Yijue Xie. Nous avions pour consigne
-de se fixer un objectif et de le réaliser à l'aide des capteurs de notre robot : LiDAR, Caméra, infra-rouge, IMU, odomètre.
+# Robotics project
+## Academic context
+I realized this project with Yijue Xie for the course *Sensors for intelligent systems*. We had to choose and realize a task with a Turltebot equipped with LiDAR, Camera, infrared, IMU, odometer.
 
-Notre objectif était que notre robot répère une cible représentée par un damier, s'avance vers elle et de la contourne.
+Our objective was to let the robot find its target, move towards the target and round it..
 
-## Résultats
-Vous pouvez retrouver l'ensemble de nos codes ainsi qu'un rapport sur [ce repo](https://gitlab.utc.fr/damiemar/sy31-projet-tp).
+## Results
+You can find our codes and the documentation (in french only) on this [Gitlab repo](https://gitlab.utc.fr/damiemar/sy31-projet-tp).
 
 ## Technologies
 * Turtlebot
