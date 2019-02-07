@@ -1,21 +1,19 @@
-# Supports de cours : Introduction aux Systèmes et Réseaux
+# Introductory courses on system and network administration
 
-## Contexte académique
+## Academic context
 
-Ce projet a été suivi par Stéphane Crozat (Enseignant-Chercheur à l'UTC) et Antoine Barbare (Ingénieur chez Scaleway).
-Il prenait place dans un cours proposant de réaliser des projets proposés par les enseignants-chercheurs de l'UTC.
-L'objectif était de réaliser des supports de cours pouvant être utilisés lors de formations ponctuelles ou de cours plus classiques.
+This project had been supervised by Stéphane Crozat (University lecturer at University of Technology of Compiègne) and Antoine Barbare (Engineer at Scaleway). The objective was to create introductory courses for classic courses or one-time trainings.
 
-## Résultats
-J'ai contribué à plusieurs modules de formation:
+## Results
+I contributed in several parts of these courses:
 
-* Correction de modules traitant de VM, de SSH et nginx.
-* Création de module sur l'administration de PostgreSQL : [Gérer les connexions et les droits utilisateurs sous PostgreSQL](https://school.picasoft.net/modules/pg01/co/pg01.html) 
+* Corrections for courses on VM, SSH and nginx.
+* Writing of two courses on PostgreSQL administration: [Gérer les connexions et les droits utilisateurs sous PostgreSQL](https://school.picasoft.net/modules/pg01/co/pg01.html) 
 et [Sauvegarde et restauration d'une base de données sous PostgreSQL](https://school.picasoft.net/modules/pg02/co/pg02.html)
-* Création d'un [module sur le DNS](https://school.picasoft.net/modules/dns01/co/dns01.html)
-* Développement d'un XSL pour adapter le XML de certains cours
+* Writing of a course on [DNS](https://school.picasoft.net/modules/dns01/co/dns01.html)
+* XSL development
 
-Pour avoir plus de détails sur ce projet et sa réalisation, je vous invite à lire ce [wiki](https://wiki.picasoft.net/doku.php?id=txs:sr-p18:index).
+For more details, you can read this [wiki](https://wiki.picasoft.net/doku.php?id=txs:sr-p18:index) (only in french).
 
 ## Technologies
 * PHP
