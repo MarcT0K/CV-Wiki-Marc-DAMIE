@@ -1,22 +1,22 @@
 # Graph visualization
 
 ## Academic context
-I created these graphs for **Franck Ghitalla**'s network science course. In these graphs, each edge is a hyperlink and a node is a web entity. 
+I created these graphs for **Franck Ghitalla**'s network science course. In these graphs, each edge is a hyperlink and a node is a web entity. To create these graphs, I just needed to realize few simple crawls.
 
 Thanks to this kind of graph, we can visualize and analyze strategies for occupation of web territory. We can also consider social organizations thanks to the web content production.
 
 I studied the strategy of occupation of several groups : far right, Scientology and Jehovah's Witnesses. I choosed to show only the graphe about Scientology because I consider it as the most clean and atypical.
 
-## Graphe sur la stratégie d'occupation du territoire numérique de la Scientologie
+## Graph on Scientology's strategy of web occupation
 Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numérique très bien conçue par la Scientologie. Pour obtenir ce graphe, il a simplement fallu crawl (avec une profondeur donnée) à partir de scientology.org. Aucun traitement supplémentaire ou nettoyage des résultats a été nécessaire.
 
-[Version Web du graphe](Scientologie/index.html)
+[Web Version of the grap](Scientologie/index.html)
 
-### *Légende*: 
+### *Caption*: 
 
-* Noeud : site/entité web.
-* Lien : Hyperlien entre deux entités
-* Couleur/Taille : Degré du noeud
+* Node : Web site/entity
+* Edge : Hyperlink beteen two entities
+* Color/Size : node degree
 
 ![Graphe Scientologie](uploads/images/sciento.png)
 
@@ -35,6 +35,6 @@ La Scientologie a très bien réfléchi son occupation du Web. Premièrement, l'
 Le degré des noeuds français est un argument explicant la présence moindre de cette secte en France par rapport à d'autres pays. Ainsi, on constate que la stratégie d'occupation du territoire numérique n'a pas été encore appliqué sur le Web français.
 
 ## Technologies
-* Python (pour le crawler)
+* Python (crawler)
 * Gephi
 * Hyphe
