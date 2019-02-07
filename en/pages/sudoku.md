@@ -2,7 +2,7 @@
 
 ## Academic context
 
-This project had been realised with Hoang Quoc Trung for the course *Problem solving and logic programming*. The objective was to write a *Prolog* program allowing to generate, play and solve a sudoku grid. Note that we were not allowed to use Constraint programming.
+This project had been realized with Hoang Quoc Trung for the course *Problem solving and logic programming*. The objective was to write a *Prolog* program allowing to generate, play and solve a sudoku grid. Note that we were not allowed to use Constraint programming.
 
 ## Results
 
