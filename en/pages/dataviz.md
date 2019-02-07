@@ -10,7 +10,7 @@ I studied the strategy of occupation of several groups : far right, Scientology 
 ## Graph on Scientology's strategy of web occupation
 Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numérique très bien conçue par la Scientologie. Pour obtenir ce graphe, il a simplement fallu crawl (avec une profondeur donnée) à partir de scientology.org. Aucun traitement supplémentaire ou nettoyage des résultats a été nécessaire.
 
-[Web Version of the grap](Scientologie/index.html)
+[Web Version of the graph](Scientologie/index.html)
 
 ### *Caption*: 
 
