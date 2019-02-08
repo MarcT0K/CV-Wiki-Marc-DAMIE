@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "Graph analysis: <br> 1) The Scientology Web looks like an intranet: there is no outbound link pointing at Mainstream Web like Youtube, etc. <br> 2) The nodes have an extremely high degree : usually for this kind of website sample, the entity with the highest degree is Youtube and isn't pointed by 90% of the websites.<br> 3) There is a very high density which created this round shape.<br> 4) There are two poles: a religious one(scientology.org,...) and a cultural one(Dianetics.org,...)<br> 5) The further a website is from the center, the more local the entity is(Scientologi.se, Scientology-Detroit.org,...)<br> 6) There are just few french nodes and their degrees are extremely low.",
-    "intro": "Thanks to the graph below, we see an occupation of Web territory very wel thought by Church of Scientology. To create this graph, I just needed to crawl from scientology.org (with a fixed maximum depth). No data cleaning has been done.",
+    "intro": "Thanks to the graph below, we see an occupation of Web territory very well thought by Church of Scientology. To create this graph, I just needed to crawl from scientology.org (with a fixed maximum depth). No data cleaning has been done.",
     "title": "Graph on Scientology Web"
   },
   "legend": {
