@@ -12,7 +12,7 @@ Thanks to the graph below, we see an occupation of Web territory very well thoug
 
 [Web Version of the graph](Scientologie/index.html)
 
-### *Caption*: 
+### *Legend*: 
 
 * Node : Web site/entity
 * Edge : Hyperlink beteen two entities
