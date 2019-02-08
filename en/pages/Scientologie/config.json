@@ -13,9 +13,9 @@
     "title": "Graph on Scientology Web"
   },
   "legend": {
-    "edgeLabel": "Hyperlien",
-    "colorLabel": "Degré",
-    "nodeLabel": "Site/Entité Web"
+    "edgeLabel": "Hyperlink",
+    "colorLabel": "Degree",
+    "nodeLabel": "Web site/entity"
   },
   "features": {
     "search": true,
