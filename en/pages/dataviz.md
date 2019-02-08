@@ -20,7 +20,7 @@ Sur le graphe ci-dessous, on peut visualiser une occupation du territoire numér
 
 ![Graphe Scientologie](uploads/images/sciento.png)
 
-### Analyse du graphe: 
+### Graph analysis: 
 * Le Web de la Scientologie **ressemble à un sorte intranet**, il n'y a aucun lien qui se dirige vers le Web *classique* tel que *Youtube*, etc.
 * Les noeuds ont un **degré extrêmement grand** : généralement sur un échantillon de cette taille, l'entité avec le plus grand degré est Youtube. 
 Ici, les entités au plus grand degré sont pointées par près de 90% des sites.
@@ -30,9 +30,9 @@ Ici, les entités au plus grand degré sont pointées par près de 90% des sites
 * Il y a très peu de noeuds français et ces noeuds ont un degré extrêmement faible
 
 ### Conclusions:
-La Scientologie a très bien réfléchi son occupation du Web. Premièrement, l'existence du pôle culturel moins connoté religion représente une porte d'entrée vers la Scientologie. L'idée d'avoir des pages sans lien sortant de ce cluster Scientologie permet de conserver ses internautes. Les degrés très grands permettent un très bon référencement par l'algorithme de Google. Enfin, les déclinaisons locales ont des degrés très faibles car elles représentent des entités utiles pour des "croyants" confirmés et à l'utilisation plus quotidienne. Ces sites sont donc le bout du chemin pour un utilisateur. 
+Scientology deployed a very cleaver Web occupation. Firstly, we notice the existence of a cultural pole which could be a important entry point to the religious part of Scientology. The idea of not having outbound links in this cluster allows to keep the users in the Scientology Web. The big degrees grants a vey good ranking by Google algorithms. Finally, the local entities have low degrees because they present an interest for "believers" who have a daily use of these websites. They are like the end of the road in the Scientology Web. 
 
-Le degré des noeuds français est un argument explicant la présence moindre de cette secte en France par rapport à d'autres pays. Ainsi, on constate que la stratégie d'occupation du territoire numérique n'a pas été encore appliqué sur le Web français.
+The low degree of french nodes is a strong argument to explain the small presence of Scientology in France (compared to other countries). Therefore, we notice that Scientology haven't succeed in deploying their strategy of Web occupation in France yet.
 
 ## Technologies
 * Python (crawler)
