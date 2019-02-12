@@ -28,7 +28,7 @@
   * [Graph visualization: Scientology](pages/dataviz.md)
   * [Robotics project](pages/robot.md)
   
-[My CV](pages/uploads/pdf/Marc_DAMIE_CV_en.pdf)
+[My CV](pages/uploads/pdf/Marc_DAMIE_CV_english.pdf)
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 [<img src="france_icon.png" alt="Version française" width="20" height="20" /> Version française](../fr/#!index.md)
