@@ -24,6 +24,8 @@ Le reste des cours a été suivi lors de précédents semestres.
 * <strong><span style="color:darkblue">Fonctions d'une variable réelle et applications</span></strong>
 
 ## Informatique
+
+* <strong><span style="color:darkblue">Introduction à la Data Science</span></strong>: Algorithmes d'apprentissages supervisé et non supervisé . Technologies: `Python` `Scikit-learn` `Numpy` `Matplotlib`
 * <strong><span style="color:darkblue">Capteurs pour les systèmes intelligents</span></strong> (IoT): permet d'acquérir les notions et outils théoriques et pratiques de base nécessaires à la compréhension des capteurs, aux traitements de l'information et leur intégration dans des systèmes intelligents (vision industrielle, robots, véhicules, etc). Technologies utilisées : `ROS` `Python` `Turtlebot`
 * <strong><span style="color:darkblue">Structure d'un calculateur</span></strong>: permet de comprendre l'architecture matérielle des supports informatiques de traitement de données. Les secrets des performances des dernières générations de processeurs seront décryptés (multicoeur, many-coeurs, hyperpipeline, hyperthreading, etc.). Technologies utilisées : `Assembleur` `SSE` `VHDL`
 * <strong><span style="color:darkblue">Algorithmique et structure de données</span></strong>: présente des structures de données de base en informatique ainsi que des algorithmes qui les manipulent (et leur complexité). Implémentation en `C`
