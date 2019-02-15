@@ -23,6 +23,8 @@ The courses below have already been completed during the previous semesters.
 * <strong><span style="color:darkblue">Functions of a real variable</span></strong>
 
 ## Computer Science
+
+* <strong><span style="color:darkblue">Introduction to Data Science</span></strong>: Supervised and unsupervised learning algorithms. Technologies: `Python` `Scikit-learn` `Numpy` `Matplotlib`
 * <strong><span style="color:darkblue">Sensors for intelligent systems</span></strong> (IoT): concepts and tools necessary for basic measurements principles, understanding of the sensors, information processing and integration in intelligent systems (machine vision, robots, vehicles, etc.).Technologies: `ROS` `Python` `Turtlebot` `Numpy` `OpenCV`
 * <strong><span style="color:darkblue">Architecture of a processing element</span></strong>: provides basic elements to understand the architecture of a data processing system. The secrets behind the success of recent multi-core processors will be presented too (pipeline, hyper-threading,etc.). Technologies: `Assembly` `SSE` `VHDL` `C`
 * <strong><span style="color:darkblue">Algorithmics and data structures</span></strong>: introduction of the basic data structures and algorithms that manage them. Trees, Graphs, Sorting, etc. Technology: `C`
