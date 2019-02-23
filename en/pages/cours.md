@@ -4,7 +4,7 @@ In my university, the year is divide in two semesters. Then, each course is take
 
 ## Courses currently being taken
 * <strong><span style="color:darkblue">Data analysis and data mining</span></strong>: Study of the principal methods of multidimensional data analysis used in data mining allowing the retrieval of knowledge starting from great volumes of data. Technology: `R`
-* <strong><span style="color:darkblue">Sturcture, formal calculus et algorithms</span></strong>: The fundamental structures of the algebra (groups, rings, fields) are presented and put into practice by the formal calculation (Sage, or Python, in practical class), via algorithms (modular exponentiation, Euclide, Pollard). Technology: `Python`
+* <strong><span style="color:darkblue">Optimization and operational research</span></strong>: introduction to linear and non linear programming.`
 * <strong><span style="color:darkblue">Object-oriented programming and design</span></strong>. Technologie utilisée: `C++`
 * <strong><span style="color:darkblue">Design og relational and non-relational databases</span></strong>. Technologies: `PHP` `SQL` `NoSQL`
 * <strong><span style="color:darkblue">Project realization</span></strong>. Technology: `Python` `Docker`, etc.
