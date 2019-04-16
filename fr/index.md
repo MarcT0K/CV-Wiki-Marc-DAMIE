@@ -8,4 +8,4 @@ Je suis étudiant-ingénieur en troisième année au sein du département Génie
 Je suis passionné par la Donnée et les Mathématiques. Grâce à des projets académiques et des associations dans lesquelles je suis impliqué, j'ai de petites expériences dans plusieurs domaines: réseaux, système, analyse de données, traitement d'images, etc.
 
 ## Recherche de stage
-Je recherche actuellement un **stage en développement de 6 mois** pour débuter ma quatrième année. Je souhaiterais réaliser celui-ci sur Montréal.
+Je recherche actuellement un **stage en développement de 6 mois** pour débuter ma quatrième année.
