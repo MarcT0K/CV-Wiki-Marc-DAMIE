@@ -2,19 +2,10 @@
 
 Les cours à l'Université de Technologie de Compiègne (UTC) s'étendent sur un semestre.
 
-## Cours suivis en ce moment
+## Mathématiques
+
 * <strong><span style="color:darkblue">Analyse de données et data mining</span></strong>: présente les techniques modernes de l'analyse de grands ensembles de données et développer les outils de base de la fouille de données (data mining). Technologie utilisée: `R`
 * <strong><span style="color:darkblue">Optimisation et recherche opérationnelle</span></strong>: introduction aux techniques de base en optimisation linéaire et non linéaire.
-* <strong><span style="color:darkblue">Programmation et conception orientées objet</span></strong>. Technologie utilisée: `C++`
-* <strong><span style="color:darkblue">Conception de bases de données relationnelles et non relationnelles</span></strong>. Technologies utilisées: `PHP` `SQL` `NoSQL`
-* <strong><span style="color:darkblue">Réalisation de projet</span></strong>. Technologie utilisée: `Python` `Docker`, etc.
-* <strong><span style="color:darkblue">Communication scientifique et technique en anglais</span></strong>
-
-
-Le reste des cours a été suivi lors de précédents semestres.
-
-
-## Mathématiques
 * <strong><span style="color:darkblue">Analyse numérique</span></strong>: l'objectif du est de faire prendre conscience aux étudiants que la simulation de la majorité des phénomènes réels conduit à des modèles dont la résolution mathématique exacte est impossible. Application grâce à `Scilab`.
 * <strong><span style="color:darkblue">Méthodes statistiques pour l'ingénieur</span></strong>. Utilisation de `R`
 * <strong><span style="color:darkblue">Algèbre linéaire et applications</span></strong>
@@ -25,6 +16,8 @@ Le reste des cours a été suivi lors de précédents semestres.
 
 ## Informatique
 
+* <strong><span style="color:darkblue">Programmation et conception orientées objet</span></strong>. Technologie utilisée: `C++`
+* <strong><span style="color:darkblue">Conception de bases de données relationnelles et non relationnelles</span></strong>. Technologies utilisées: `PHP` `SQL` `MongoDB` `PL/SQL` `Neo4j`
 * <strong><span style="color:darkblue">Introduction à la Data Science</span></strong>: Algorithmes d'apprentissages supervisé et non supervisé . Technologies: `Python` `Scikit-learn` `Numpy` `Matplotlib`
 * <strong><span style="color:darkblue">Capteurs pour les systèmes intelligents</span></strong> (IoT): permet d'acquérir les notions et outils théoriques et pratiques de base nécessaires à la compréhension des capteurs, aux traitements de l'information et leur intégration dans des systèmes intelligents (vision industrielle, robots, véhicules, etc). Technologies utilisées : `ROS` `Python` `Turtlebot`
 * <strong><span style="color:darkblue">Structure d'un calculateur</span></strong>: permet de comprendre l'architecture matérielle des supports informatiques de traitement de données. Les secrets des performances des dernières générations de processeurs seront décryptés (multicoeur, many-coeurs, hyperpipeline, hyperthreading, etc.). Technologies utilisées : `Assembleur` `SSE` `VHDL`
@@ -33,13 +26,16 @@ Le reste des cours a été suivi lors de précédents semestres.
 * <strong><span style="color:darkblue">Maîtrise des systèmes informatiques</span></strong>: apprentissage de langages compilé et interprété. Gestion mémoire, interruptions, appels système et processus. Ecriture d'expressions régulières. Technologies : `C` `Bash` `Python`.
 * <strong><span style="color:darkblue">Traitement automatique de l'information</span></strong>: concerne l'acquisition, la modélisation, la structuration, le traitement, le transport et la publication des données numériques. Elle couvre également les concept de stockage de données dans une base de données personnelle. Technologies utilisées: `LaTeX` `HTML/CSS` `PHP` `UML` `SQL`
 * <strong><span style="color:darkblue">Algorithmique et programmation</span></strong>. Techonologie utilisée: `Pascal`
+* <strong><span style="color:darkblue">Réalisation de projet</span></strong>. Technologie utilisée: `Python` `Docker` `ElasticSearch` `Scylla(CQL)`
 
 ## Langues
 Dans cette partie, chaque cours est séparé par un point-virgule.
 
-* <strong><span style="color:darkblue">Anglais</span></strong> : Niveau avancé; Interculturalité appliquée aux pays anglophones 
+* <strong><span style="color:darkblue">Anglais</span></strong> : Niveau avancé; Interculturalité appliquée aux pays anglophones; Communication scientifique et technique en anglais
 * <strong><span style="color:darkblue">Espagnol</span></strong> : Niveau avancé
 * <strong><span style="color:darkblue">Chinois</span></strong> : Niveau débutant
+
+Score au **TOEFL iBT**: 105/120
 
 ## Sciences humaines
 * Séminaire interdisciplinaire de sciences et technologies cognitives
