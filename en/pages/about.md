@@ -1,5 +1,15 @@
 # About me
 
+## Work experience
+
+* *[Sept. 19 - Feb. 20]* Python Back-End intern in [Gatewatcher](https://www.gatewatcher.com/en/) on the intrusion detection system Trackwatch
+  * Python Back-End: Django, Flask, Docker
+  * Continuous integration: Python, Docker, Gitlab
+  * Data engineering: Elasticsearch (ILM deployment, queries, etc.), Logstash, Redis, PostgreSQL
+* *[Feb. 20 - July 20]* Research intern in a [cybersecurity lab](https://www.utwente.nl/en/eemcs/scs/) (University of Twente, Netherlans)
+  * Attacks on Searchable Encryption using Machine Learning
+  * Python: numpy, pandas, nltk, scipy
+
 
 ## Volunteering in non-profit associations
 * *[Since February 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/) : a non-profit Internet Service Provider
@@ -9,13 +19,12 @@
   * Association member of the [FFDN](https://www.ffdn.org/en)
 * *[2017 - 2018]* Manager of Communication and Sponsorships of **TEDxUTCompiègne**
   * Organization of the third TEDxUTCompiègne conference
-* *[Since December 2018]* IT Manager of Escap'UT (student association organizing escape games in our Uni) 
+* *[2019]* IT Manager of Escap'UT (student association organizing escape games in our Uni) 
   * Website and reservation system development
   * Enigmas development using computers, Raspberries Pi and sensors
 
 ## Other Involvements
 * *[Since December 2017]* <strong><span style="color:darkblue">Student representative</span></strong> in the board of directors of the University of Technology of Compiègne
-* *[Since December 2018]* <strong><span style="color:darkblue">Student representative</span></strong> in the Computer Science Department of the University of Technology of Compiègne
 
 ## My Interests
 
@@ -24,4 +33,4 @@
   * 2 two-weeks language stay in Saint-Petersburg, Russia
   * Tourist stays: Canada, Korea, Japan, Portugal, USA, etc.
 * eSport
-* Ultimate Frisbee
+* CTF
